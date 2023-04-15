@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-15T14:54:37Z",
+  "IdClaims": [
+    {
+      "Claim": "t:paddlefish"
+    },
+    {
+      "Claim": "mdon:@paddlefish@rls.social"
+    },
+    {
+      "Claim": "gh:paddlefish"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "625086765733965c6fa76d4b",
+    "Timestamp": "2023-04-15T15:00:00Z",
+    "Signature": "a06b586a1a08a5ee07fe8e7b607864b238b69946fc74ccb3710abb5bff25b3b1802274143e1afdf60e2f8c042ce9eac5491be892f0cec057c09f67818be1a9216a7653cc3cd3e7f50651dfdd66fdb11bf823ed5bc302b77928ce781f4dbb84c9d83b274e3b7d1984df840c64e49a1e84369620b7d5d9e78aa720681c9ba30906bec6e86b165ed515a13612ef2fb93d7724cd0d70c2409056947a1bd75b86df5dbf084bcba040874a5e356067333eb1c4585a22f161975f5759f4099be37b71200b6ba914f10e6ece5f8852f1d0f50dc2bdfcff751717a0edf59f123271636c7aa56ff1b760f3018193004791181129fc52bcb6b9a2de201981fcc00b67ff6757"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d94eb0ae13b787a1306110a31eaeca1855a7aa9ea12f818dd0bdc7ce5ee07bf9",
+  "ContentToHash": "v1|gh:paddlefish,mdon:@paddlefish@rls.social,t:paddlefish|2023-04-15T14:54:37Z"
+}
